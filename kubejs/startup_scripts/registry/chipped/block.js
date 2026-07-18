@@ -4,7 +4,7 @@
       .create("chipped:stripped_dark_oak_log_12")
       .material("wood")
       .hardness(2)
-      .tagBlock("minecraft:mineable/axe")
+      .tagBlock("chipped:stripped_dark_oak_log")
       .displayName("Patient Stripped Dark Oak Log")
       .property(BlockProperties.AXIS)
       .placementState(event =>
@@ -24,7 +24,7 @@
       .create("chipped:stripped_dark_oak_log_13")
       .material("wood")
       .hardness(2)
-      .tagBlock("minecraft:mineable/axe")
+      .tagBlock("chipped:stripped_dark_oak_log")
       .displayName("Reinforced Stripped Dark Oak Log")
       .property(BlockProperties.AXIS)
       .placementState(event =>
@@ -44,7 +44,7 @@
       .create("chipped:stripped_dark_oak_log_14")
       .material("wood")
       .hardness(2)
-      .tagBlock("minecraft:mineable/axe")
+      .tagBlock("chipped:stripped_dark_oak_log")
       .displayName("Sign Stripped Dark Oak Log")
       .property(BlockProperties.AXIS)
       .placementState(event =>
@@ -64,7 +64,7 @@
       .create("chipped:stripped_dark_oak_log_15")
       .material("wood")
       .hardness(2)
-      .tagBlock("minecraft:mineable/axe")
+      .tagBlock("chipped:stripped_dark_oak_log")
       .displayName("Stern Stripped Dark Oak Log")
       .property(BlockProperties.AXIS)
       .placementState(event =>
@@ -84,7 +84,7 @@
       .create("chipped:stripped_dark_oak_log_16")
       .material("wood")
       .hardness(2)
-      .tagBlock("minecraft:mineable/axe")
+      .tagBlock("chipped:stripped_dark_oak_log")
       .displayName("Wise Stripped Dark Oak Log")
       .property(BlockProperties.AXIS)
       .placementState(event =>
