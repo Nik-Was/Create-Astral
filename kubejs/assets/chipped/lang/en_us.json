@@ -139,6 +139,10 @@
 	"block.chipped.dried_kelp_block_11": "Mossy Dried Kelp Block",
 	"block.chipped.dried_kelp_block_12": "Leafy Dried Kelp Block",
 
+    "block.chipped.pointed_dripstone_3": "Pointed Cobbled Deepslate",
+    "block.chipped.pointed_dripstone_5": "Pointed Smooth Basalt",
+    "block.chipped.pointed_dripstone_6": "Pointed Granite",
+
     "block.chipped.glass_1": "Clear Leaded Glass",
     "block.chipped.glass_2": "Fancy Leaded Glass",
     "block.chipped.glass_3": "Large Diamond Leaded Glass",
