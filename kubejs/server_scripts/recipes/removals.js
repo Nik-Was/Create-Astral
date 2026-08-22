@@ -341,6 +341,7 @@
         output: "create:dough",
       },
       { mod: "create", output: "minecraft:andesite" },
+      { id: "create:mixing/chocolate" },
       // Create Deco
       { output: "createdeco:andesite_door" },
       { output: "createdeco:brass_door" },

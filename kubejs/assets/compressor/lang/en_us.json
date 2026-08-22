@@ -125,5 +125,7 @@
   "block.compressor.septuple_compressed_end_stone": "Septuple Compressed End Stone",
   "block.compressor.octuple_compressed_end_stone": "Octuple Compressed End Stone",
 
-  "item.compressor.octuple.tooltip": "43 046 721 blocks"
+  "item.compressor.octuple.tooltip": "43 046 721 blocks",
+
+  "itemGroup.compressor.itemgroup": "Compressor"
 }

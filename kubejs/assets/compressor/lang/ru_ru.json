@@ -124,5 +124,8 @@
   "block.compressor.sextuple_compressed_end_stone": "Шестикратно сжатый эндерняк",
   "block.compressor.septuple_compressed_end_stone": "Семикратно сжатый эндерняк",
   "block.compressor.octuple_compressed_end_stone": "Восьмикратно сжатый эндерняк",
-  "item.compressor.octuple.tooltip": "43 046 721 блок"
+
+  "item.compressor.octuple.tooltip": "43 046 721 блок",
+
+  "itemGroup.compressor.itemgroup": "Compressor"
 }
