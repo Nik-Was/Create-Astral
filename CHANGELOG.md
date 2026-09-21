@@ -15,7 +15,32 @@ Release dates attached to version numbers are in the format `YYYY/MM/DD` as per 
 
 Please note that patch notes for versions 2.1.3 and lower are currently lacking in full information, or may even be entirely inaccurate, due to poor documentation of changes before implementation of the changelog. If you notice anything that is incorrect or missing, please open a Pull Request with your fixes.
 
-## [Unreleased]
+## [2.1.5b] - 2026-08-22
+
+### SUMMARY
+
+This hotfix addresses some unexpected issues with our Official and Sister Server host. Players will now once again be able to connect to both servers from the multiplayer screen.
+
+Note that if updating an instance from a version below 2.1.5b, you will see two of each server, one of each will have a yellow 'Builtin' label on the right - the non-Builtin servers are safe to delete as their IP addresses are now incorrect.
+
+### ADDITIONS
+
+#### Mod additions
+
+- Added the Builtin Servers mod (#774) @The-Shortman
+  - Fixes the Official Server IP address being incorrect due to an unplanned change in allocation @Laskyyy
+  - Fixes the Sister Server IP address being incorrect due to an unplanned change in allocation @ethanicusss
+
+### CHANGES
+
+#### Bug patches
+
+- Fixed a quest typo stating that Mechanical Harvesters could harvest fully-grown tools, instead of crops (#768) @unanimousveto
+- Fixed the Stone Growth Chamber quest stating that you would need to mill Andesite to get Cobblestone, despite the fact it can generate Cobblestone directly (#769) @Nik-Was
+
+#### Behind-the-scenes
+
+- The release workflow now also uploads the modpack to CurseForge automatically (#766) @The-Shortman
 
 ## [2.1.5a] - 2026-08-09
 
